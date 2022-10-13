@@ -1,0 +1,38 @@
+ 2022-10-13 13:21:38,011  INFO [main] Saucedemo01:48 -  browser is open
+2022-10-13 13:21:39,631  INFO [main] Saucedemo01:52 - 2.url is opened
+2022-10-13 13:21:39,935  INFO [main] Saucedemo01:60 - 3.usernmae is entered
+2022-10-13 13:21:40,098  INFO [main] Saucedemo01:64 - 4.password is entered
+2022-10-13 13:21:40,311  INFO [main] Saucedemo01:67 - 5.login button clicked
+2022-10-13 13:21:40,691  INFO [main] Saucedemo01:75 - 6.two product get added to cart
+2022-10-13 13:21:41,060  INFO [main] Saucedemo01:82 -  bag product screenshot captured
+2022-10-13 13:21:41,084  INFO [main] Saucedemo01:18 - 6.apply validation
+2022-10-13 13:21:41,650  INFO [main] Saucedemo01:95 - 7.browser is closed
+2022-10-13 13:21:41,651  INFO [main] Saucedemo01:96 - 8.end of programs
+2022-10-13 13:21:43,138  INFO [main] Saucedemo01:48 -  browser is open
+2022-10-13 13:21:44,540  INFO [main] Saucedemo01:52 - 2.url is opened
+2022-10-13 13:21:44,730  INFO [main] Saucedemo01:60 - 3.usernmae is entered
+2022-10-13 13:21:44,892  INFO [main] Saucedemo01:64 - 4.password is entered
+2022-10-13 13:21:45,107  INFO [main] Saucedemo01:67 - 5.login button clicked
+2022-10-13 13:21:45,403  INFO [main] Saucedemo01:75 - 6.two product get added to cart
+2022-10-13 13:21:45,697  INFO [main] Saucedemo01:82 -  bag product screenshot captured
+2022-10-13 13:21:45,707  INFO [main] Saucedemo01:20 - 6.Apply the validation
+2022-10-13 13:21:46,402  INFO [main] Saucedemo01:95 - 7.browser is closed
+2022-10-13 13:21:46,402  INFO [main] Saucedemo01:96 - 8.end of programs
+2022-10-13 13:21:51,262  INFO [main] Saucedemo01:48 -  browser is open
+2022-10-13 13:21:52,392  INFO [main] Saucedemo01:52 - 2.url is opened
+2022-10-13 13:21:52,551  INFO [main] Saucedemo01:60 - 3.usernmae is entered
+2022-10-13 13:21:52,676  INFO [main] Saucedemo01:64 - 4.password is entered
+2022-10-13 13:21:53,085  INFO [main] Saucedemo01:67 - 5.login button clicked
+2022-10-13 13:21:53,606  INFO [main] Saucedemo01:75 - 6.two product get added to cart
+2022-10-13 13:21:53,749  INFO [main] Saucedemo01:82 -  bag product screenshot captured
+2022-10-13 13:21:55,177  INFO [main] Saucedemo01:95 - 7.browser is closed
+2022-10-13 13:21:55,177  INFO [main] Saucedemo01:96 - 8.end of programs
+2022-10-13 13:21:59,400  INFO [main] Saucedemo01:48 -  browser is open
+2022-10-13 13:22:00,673  INFO [main] Saucedemo01:52 - 2.url is opened
+2022-10-13 13:22:00,804  INFO [main] Saucedemo01:60 - 3.usernmae is entered
+2022-10-13 13:22:00,892  INFO [main] Saucedemo01:64 - 4.password is entered
+2022-10-13 13:22:01,262  INFO [main] Saucedemo01:67 - 5.login button clicked
+2022-10-13 13:22:01,752  INFO [main] Saucedemo01:75 - 6.two product get added to cart
+2022-10-13 13:22:01,893  INFO [main] Saucedemo01:82 -  bag product screenshot captured
+2022-10-13 13:22:04,255  INFO [main] Saucedemo01:95 - 7.browser is closed
+2022-10-13 13:22:04,255  INFO [main] Saucedemo01:96 - 8.end of programs

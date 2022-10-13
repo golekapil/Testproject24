@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="FirefoxTest(failed)">
+    <parameter name="browsername" value="Firefox"/>
+    <classes>
+      <class name="testclassTestng.TC03_verifyBagProductFunctionality3">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifybagproductfunctionality3"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testclassTestng.TC03_verifyBagProductFunctionality3 -->
+      <class name="testclassTestng.TC04_verifyAllproductFunctionality4">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyallproductfunctainality4"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testclassTestng.TC04_verifyAllproductFunctionality4 -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [suite] -->
